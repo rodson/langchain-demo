@@ -1,0 +1,16 @@
+{
+  "name": "langchain-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env app.js"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.5.1",
+    "@langchain/deepseek": "^1.1.26",
+    "@langchain/openai": "^1.8.5",
+    "langchain": "^1.6.8",
+    "zod": "^4.6.7"
+  }
+}
