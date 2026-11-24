@@ -10,6 +10,7 @@
     "@langchain/core": "^1.5.1",
     "@langchain/deepseek": "^1.1.26",
     "@langchain/openai": "^1.8.5",
+    "deepagents": "^1.17.0",
     "langchain": "^1.6.8",
     "zod": "^4.6.7"
   }
